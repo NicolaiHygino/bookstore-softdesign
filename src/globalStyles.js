@@ -3,6 +3,7 @@ import { createGlobalStyle } from "styled-components";
 export const GlobalStyle = createGlobalStyle`
   :root {
     --main-color: #EA7C2C;
+    --error: #e74c3c;
   }
 
   * {

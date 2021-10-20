@@ -1,8 +1,12 @@
-import React from 'react';
+import React, { useState } from 'react';
+import Login from './components/Login';
 
 const App = () => {
+  const [user, setUser] = useState(null);
+
+  if (!user) return <Login setUser={setUser} />;
   return (
-    <h1>Hello, World!</h1>
+    <h1>DASHBOARD</h1>
   );
 };
 
