@@ -46,7 +46,7 @@ const Dashboard = () => {
         <Grid>
           {filteredBooks.map(book => 
             <BookCard 
-              key={`${book.author}${book.title}`}
+              key={book.id}
               book={book}
               setDetails={setDetails}
             />

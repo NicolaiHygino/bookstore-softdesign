@@ -5,9 +5,10 @@
     "image": "things-fall-apart.jpg",
     "language": "English",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 209,
+    "pages": "209",
     "title": "Things Fall Apart",
-    "year": 1958
+    "year": "1958",
+    "id": "zs-YmV7i6uDixbSrI6KgD"
   },
   {
     "author": "Hans Christian Andersen",
@@ -15,9 +16,10 @@
     "image": "fairy-tales.jpg",
     "language": "Danish",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 784,
+    "pages": "784",
     "title": "Fairy tales",
-    "year": 1836
+    "year": "1836",
+    "id": "EKrL0hbJwKYruxRXHezir"
   },
   {
     "author": "Dante Alighieri",
@@ -25,9 +27,10 @@
     "image": "the-divine-comedy.jpg",
     "language": "Italian",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 928,
+    "pages": "928",
     "title": "The Divine Comedy",
-    "year": 1315
+    "year": "1315",
+    "id": "bVNKr8vvXyhv9tDGkE6zM"
   },
   {
     "author": "Unknown",
@@ -35,9 +38,10 @@
     "image": "the-epic-of-gilgamesh.jpg",
     "language": "Akkadian",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 160,
+    "pages": "160",
     "title": "The Epic Of Gilgamesh",
-    "year": -1700
+    "year": "1700 BC",
+    "id": "HuO3I8xD-0258g-iBgHcw"
   },
   {
     "author": "Unknown",
@@ -45,9 +49,10 @@
     "image": "the-book-of-job.jpg",
     "language": "Hebrew",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 176,
+    "pages": "176",
     "title": "The Book Of Job",
-    "year": -600
+    "year": "600 BC",
+    "id": "Zkjq-GHDHL-vEzAGevKIg"
   },
   {
     "author": "Unknown",
@@ -55,9 +60,10 @@
     "image": "one-thousand-and-one-nights.jpg",
     "language": "Arabic",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 288,
+    "pages": "288",
     "title": "One Thousand and One Nights",
-    "year": 1200
+    "year": "1200",
+    "id": "nEcT5ok_1dedYJOBEo5Jh"
   },
   {
     "author": "Unknown",
@@ -65,9 +71,10 @@
     "image": "njals-saga.jpg",
     "language": "Old Norse",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 384,
+    "pages": "384",
     "title": "Njál's Saga",
-    "year": 1350
+    "year": "1350",
+    "id": "Ap97OCqRxMZzYZXVezuMF"
   },
   {
     "author": "Jane Austen",
@@ -75,9 +82,10 @@
     "image": "pride-and-prejudice.jpg",
     "language": "English",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 226,
+    "pages": "226",
     "title": "Pride and Prejudice",
-    "year": 1813
+    "year": "1813",
+    "id": "Xgv8oROUwarkPN9FDEA6h"
   },
   {
     "author": "Honoré de Balzac",
@@ -85,9 +93,10 @@
     "image": "le-pere-goriot.jpg",
     "language": "French",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 443,
+    "pages": "443",
     "title": "Le Père Goriot",
-    "year": 1835
+    "year": "1835",
+    "id": "gWIEJoIJ9s2FoZL6jsWyS"
   },
   {
     "author": "Samuel Beckett",
@@ -95,9 +104,10 @@
     "image": "molloy-malone-dies-the-unnamable.jpg",
     "language": "French, English",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 256,
+    "pages": "256",
     "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
-    "year": 1952
+    "year": "1952",
+    "id": "tDdTFjlwARiXTuz_5cg67"
   },
   {
     "author": "Giovanni Boccaccio",
@@ -105,9 +115,10 @@
     "image": "the-decameron.jpg",
     "language": "Italian",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 1024,
+    "pages": "1024",
     "title": "The Decameron",
-    "year": 1351
+    "year": "1351",
+    "id": "Y1AfvNIjMNiOgobfbyVqq"
   },
   {
     "author": "Jorge Luis Borges",
@@ -115,9 +126,10 @@
     "image": "ficciones.jpg",
     "language": "Spanish",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 224,
+    "pages": "224",
     "title": "Ficciones",
-    "year": 1965
+    "year": "1965",
+    "id": "m_G4h-rqq22Crzo6Ixhll"
   },
   {
     "author": "Emily Brontë",
@@ -125,9 +137,10 @@
     "image": "wuthering-heights.jpg",
     "language": "English",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 342,
+    "pages": "342",
     "title": "Wuthering Heights",
-    "year": 1847
+    "year": "1847",
+    "id": "Or9MNp9BQFTW6zyEM6V02"
   },
   {
     "author": "Albert Camus",
@@ -135,9 +148,10 @@
     "image": "l-etranger.jpg",
     "language": "French",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 185,
+    "pages": "185",
     "title": "The Stranger",
-    "year": 1942
+    "year": "1942",
+    "id": "fSQWFUxr8wK6o6RNgcDQk"
   },
   {
     "author": "Paul Celan",
@@ -145,9 +159,10 @@
     "image": "poems-paul-celan.jpg",
     "language": "German",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 320,
+    "pages": "320",
     "title": "Poems",
-    "year": 1952
+    "year": "1952",
+    "id": "06dIZJ1VpX_zQadoD0Hce"
   },
   {
     "author": "Louis-Ferdinand Céline",
@@ -155,9 +170,10 @@
     "image": "voyage-au-bout-de-la-nuit.jpg",
     "language": "French",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 505,
+    "pages": "505",
     "title": "Journey to the End of the Night",
-    "year": 1932
+    "year": "1932",
+    "id": "nVthN7fjOVhZ7pcZuhqSa"
   },
   {
     "author": "Miguel de Cervantes",
@@ -165,9 +181,10 @@
     "image": "don-quijote-de-la-mancha.jpg",
     "language": "Spanish",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 1056,
+    "pages": "1056",
     "title": "Don Quijote De La Mancha",
-    "year": 1610
+    "year": "1610",
+    "id": "k32n3eX5YT-ejUhqdBLVJ"
   },
   {
     "author": "Geoffrey Chaucer",
@@ -175,9 +192,10 @@
     "image": "the-canterbury-tales.jpg",
     "language": "English",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 544,
+    "pages": "544",
     "title": "The Canterbury Tales",
-    "year": 1450
+    "year": "1450",
+    "id": "k_RNFCBMX29cx4N-SXHWb"
   },
   {
     "author": "Anton Chekhov",
@@ -185,9 +203,10 @@
     "image": "stories-of-anton-chekhov.jpg",
     "language": "Russian",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 194,
+    "pages": "194",
     "title": "Stories",
-    "year": 1886
+    "year": "1886",
+    "id": "fyU5BKRPkvGGfqYFGhyvL"
   },
   {
     "author": "Joseph Conrad",
@@ -195,9 +214,10 @@
     "image": "nostromo.jpg",
     "language": "English",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 320,
+    "pages": "320",
     "title": "Nostromo",
-    "year": 1904
+    "year": "1904",
+    "id": "JeE3aQiCDVt3thb-vMfbv"
   },
   {
     "author": "Charles Dickens",
@@ -205,9 +225,10 @@
     "image": "great-expectations.jpg",
     "language": "English",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 194,
+    "pages": "194",
     "title": "Great Expectations",
-    "year": 1861
+    "year": "1861",
+    "id": "tRNbu0B8yoXnuaNXAr8ya"
   },
   {
     "author": "Denis Diderot",
@@ -215,9 +236,10 @@
     "image": "jacques-the-fatalist.jpg",
     "language": "French",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 596,
+    "pages": "596",
     "title": "Jacques the Fatalist",
-    "year": 1796
+    "year": "1796",
+    "id": "dRtE92XOELZ6xPAru6mNg"
   },
   {
     "author": "Alfred Döblin",
@@ -225,9 +247,10 @@
     "image": "berlin-alexanderplatz.jpg",
     "language": "German",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 600,
+    "pages": "600",
     "title": "Berlin Alexanderplatz",
-    "year": 1929
+    "year": "1929",
+    "id": "2ps9F8v5XADi0_WKl0dbu"
   },
   {
     "author": "Fyodor Dostoevsky",
@@ -235,9 +258,10 @@
     "image": "crime-and-punishment.jpg",
     "language": "Russian",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 551,
+    "pages": "551",
     "title": "Crime and Punishment",
-    "year": 1866
+    "year": "1866",
+    "id": "S8brFdKvHFvcKReEojgRx"
   },
   {
     "author": "Fyodor Dostoevsky",
@@ -245,9 +269,10 @@
     "image": "the-idiot.jpg",
     "language": "Russian",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 656,
+    "pages": "656",
     "title": "The Idiot",
-    "year": 1869
+    "year": "1869",
+    "id": "DJThQhD8kCg6tT9ouPyOP"
   },
   {
     "author": "Fyodor Dostoevsky",
@@ -255,9 +280,10 @@
     "image": "the-possessed.jpg",
     "language": "Russian",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 768,
+    "pages": "768",
     "title": "The Possessed",
-    "year": 1872
+    "year": "1872",
+    "id": "v-tIsbE4SRqMct_-qyaBo"
   },
   {
     "author": "Fyodor Dostoevsky",
@@ -265,9 +291,10 @@
     "image": "the-brothers-karamazov.jpg",
     "language": "Russian",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 824,
+    "pages": "824",
     "title": "The Brothers Karamazov",
-    "year": 1880
+    "year": "1880",
+    "id": "gry3iLtoe5hZmHJiQlKdI"
   },
   {
     "author": "George Eliot",
@@ -275,9 +302,10 @@
     "image": "middlemarch.jpg",
     "language": "English",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 800,
+    "pages": "800",
     "title": "Middlemarch",
-    "year": 1871
+    "year": "1871",
+    "id": "XPWVSPoptuWBLBCqJd3nA"
   },
   {
     "author": "Ralph Ellison",
@@ -285,9 +313,10 @@
     "image": "invisible-man.jpg",
     "language": "English",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 581,
+    "pages": "581",
     "title": "Invisible Man",
-    "year": 1952
+    "year": "1952",
+    "id": "Jl6Ns0CPxLl5gu0CSTOCK"
   },
   {
     "author": "Euripides",
@@ -295,9 +324,10 @@
     "image": "medea.jpg",
     "language": "Greek",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 104,
+    "pages": "104",
     "title": "Medea",
-    "year": -431
+    "year": "431 BC",
+    "id": "A9IHMyFUHq03mrcbDa1m4"
   },
   {
     "author": "William Faulkner",
@@ -305,9 +335,10 @@
     "image": "absalom-absalom.jpg",
     "language": "English",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 313,
+    "pages": "313",
     "title": "Absalom, Absalom!",
-    "year": 1936
+    "year": "1936",
+    "id": "8T55lADWyHzySljo7Xuk-"
   },
   {
     "author": "William Faulkner",
@@ -315,9 +346,10 @@
     "image": "the-sound-and-the-fury.jpg",
     "language": "English",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 326,
+    "pages": "326",
     "title": "The Sound and the Fury",
-    "year": 1929
+    "year": "1929",
+    "id": "UjvNcjfIhf5vyk98FUPTy"
   },
   {
     "author": "Gustave Flaubert",
@@ -325,9 +357,10 @@
     "image": "madame-bovary.jpg",
     "language": "French",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 528,
+    "pages": "528",
     "title": "Madame Bovary",
-    "year": 1857
+    "year": "1857",
+    "id": "gZ2bKmZfv-d65DG9SsFXY"
   },
   {
     "author": "Gustave Flaubert",
@@ -335,9 +368,10 @@
     "image": "l-education-sentimentale.jpg",
     "language": "French",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 606,
+    "pages": "606",
     "title": "Sentimental Education",
-    "year": 1869
+    "year": "1869",
+    "id": "F9r6J0y3wNF2Utv-38J3a"
   },
   {
     "author": "Federico García Lorca",
@@ -345,9 +379,10 @@
     "image": "gypsy-ballads.jpg",
     "language": "Spanish",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 218,
+    "pages": "218",
     "title": "Gypsy Ballads",
-    "year": 1928
+    "year": "1928",
+    "id": "HesZrr2wEsEYRbPu4afUz"
   },
   {
     "author": "Gabriel García Márquez",
@@ -355,9 +390,10 @@
     "image": "one-hundred-years-of-solitude.jpg",
     "language": "Spanish",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 417,
+    "pages": "417",
     "title": "One Hundred Years of Solitude",
-    "year": 1967
+    "year": "1967",
+    "id": "iSfI__JBSOX9gQpmI_v8K"
   },
   {
     "author": "Gabriel García Márquez",
@@ -365,9 +401,10 @@
     "image": "love-in-the-time-of-cholera.jpg",
     "language": "Spanish",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 368,
+    "pages": "368",
     "title": "Love in the Time of Cholera",
-    "year": 1985
+    "year": "1985",
+    "id": "e2fO2lBrAZlb1nFmTFcu-"
   },
   {
     "author": "Johann Wolfgang von Goethe",
@@ -375,9 +412,10 @@
     "image": "faust.jpg",
     "language": "German",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 158,
+    "pages": "158",
     "title": "Faust",
-    "year": 1832
+    "year": "1832",
+    "id": "G10G4aqQHeu09EB03BQFT"
   },
   {
     "author": "Nikolai Gogol",
@@ -385,9 +423,10 @@
     "image": "dead-souls.jpg",
     "language": "Russian",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 432,
+    "pages": "432",
     "title": "Dead Souls",
-    "year": 1842
+    "year": "1842",
+    "id": "1_w0OA94SU8znbMNp9IPC"
   },
   {
     "author": "Günter Grass",
@@ -395,9 +434,10 @@
     "image": "the-tin-drum.jpg",
     "language": "German",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 600,
+    "pages": "600",
     "title": "The Tin Drum",
-    "year": 1959
+    "year": "1959",
+    "id": "-iJwfSWqVls7ntiUwNUZK"
   },
   {
     "author": "João Guimarães Rosa",
@@ -405,9 +445,10 @@
     "image": "the-devil-to-pay-in-the-backlands.jpg",
     "language": "Portuguese",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 494,
+    "pages": "494",
     "title": "The Devil to Pay in the Backlands",
-    "year": 1956
+    "year": "1956",
+    "id": "x81r3m86ppAhZz7-iv-1k"
   },
   {
     "author": "Knut Hamsun",
@@ -415,9 +456,10 @@
     "image": "hunger.jpg",
     "language": "Norwegian",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 176,
+    "pages": "176",
     "title": "Hunger",
-    "year": 1890
+    "year": "1890",
+    "id": "EIMVWJR11sUyE42M0H9Zk"
   },
   {
     "author": "Ernest Hemingway",
@@ -425,9 +467,10 @@
     "image": "the-old-man-and-the-sea.jpg",
     "language": "English",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 128,
+    "pages": "128",
     "title": "The Old Man and the Sea",
-    "year": 1952
+    "year": "1952",
+    "id": "VdJN3w1NQp1w8-0GnjGX5"
   },
   {
     "author": "Homer",
@@ -435,9 +478,10 @@
     "image": "the-iliad-of-homer.jpg",
     "language": "Greek",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 608,
+    "pages": "608",
     "title": "Iliad",
-    "year": -735
+    "year": "735 BC",
+    "id": "h9W0dWh7QIpcOXEB6Nqli"
   },
   {
     "author": "Homer",
@@ -445,9 +489,10 @@
     "image": "the-odyssey-of-homer.jpg",
     "language": "Greek",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 374,
+    "pages": "374",
     "title": "Odyssey",
-    "year": -800
+    "year": "800 BC",
+    "id": "2XOYELQSXjLNOcX1LMMnK"
   },
   {
     "author": "Henrik Ibsen",
@@ -455,9 +500,10 @@
     "image": "a-Dolls-house.jpg",
     "language": "Norwegian",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 68,
+    "pages": "68",
     "title": "A Doll's House",
-    "year": 1879
+    "year": "1879",
+    "id": "HO2huviNUD8tDUPzQBvCr"
   },
   {
     "author": "James Joyce",
@@ -465,9 +511,10 @@
     "image": "ulysses.jpg",
     "language": "English",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 228,
+    "pages": "228",
     "title": "Ulysses",
-    "year": 1922
+    "year": "1922",
+    "id": "WZB5EcuC1CRbvQtC12JRL"
   },
   {
     "author": "Franz Kafka",
@@ -475,9 +522,10 @@
     "image": "stories-of-franz-kafka.jpg",
     "language": "German",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 488,
+    "pages": "488",
     "title": "Stories",
-    "year": 1924
+    "year": "1924",
+    "id": "S_XUyCHYR8HZ7G7OkWZ_g"
   },
   {
     "author": "Franz Kafka",
@@ -485,9 +533,10 @@
     "image": "the-trial.jpg",
     "language": "German",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 160,
+    "pages": "160",
     "title": "The Trial",
-    "year": 1925
+    "year": "1925",
+    "id": "_CLHTwE4Eevy5GqdniW1l"
   },
   {
     "author": "Franz Kafka",
@@ -495,9 +544,10 @@
     "image": "the-castle.jpg",
     "language": "German",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 352,
+    "pages": "352",
     "title": "The Castle",
-    "year": 1926
+    "year": "1926",
+    "id": "BI0pGMrCwyE1-xkzHEU20"
   },
   {
     "author": "Kālidāsa",
@@ -505,9 +555,10 @@
     "image": "the-recognition-of-shakuntala.jpg",
     "language": "Sanskrit",
     "link": "https://en.wikipedia.org/wiki/Abhij%C3%B1%C4%81na%C5%9B%C4%81kuntalam\n",
-    "pages": 147,
+    "pages": "147",
     "title": "The recognition of Shakuntala",
-    "year": 150
+    "year": "150",
+    "id": "wTR7f4S3uHTSPV2sDC8Dw"
   },
   {
     "author": "Yasunari Kawabata",
@@ -515,9 +566,10 @@
     "image": "the-sound-of-the-mountain.jpg",
     "language": "Japanese",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 288,
+    "pages": "288",
     "title": "The Sound of the Mountain",
-    "year": 1954
+    "year": "1954",
+    "id": "WzE2uCYsK7vopHKm5MTkK"
   },
   {
     "author": "Nikos Kazantzakis",
@@ -525,9 +577,10 @@
     "image": "zorba-the-greek.jpg",
     "language": "Greek",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 368,
+    "pages": "368",
     "title": "Zorba the Greek",
-    "year": 1946
+    "year": "1946",
+    "id": "mde9QFBTbq2bxzefvTrQa"
   },
   {
     "author": "D. H. Lawrence",
@@ -535,9 +588,10 @@
     "image": "sons-and-lovers.jpg",
     "language": "English",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 432,
+    "pages": "432",
     "title": "Sons and Lovers",
-    "year": 1913
+    "year": "1913",
+    "id": "79RcK2kbiWe_QeFYCZfuc"
   },
   {
     "author": "Halldór Laxness",
@@ -545,9 +599,10 @@
     "image": "independent-people.jpg",
     "language": "Icelandic",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 470,
+    "pages": "470",
     "title": "Independent People",
-    "year": 1934
+    "year": "1934",
+    "id": "kg-WgFKNr7bP7YO7g_nQD"
   },
   {
     "author": "Giacomo Leopardi",
@@ -555,9 +610,10 @@
     "image": "poems-giacomo-leopardi.jpg",
     "language": "Italian",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 184,
+    "pages": "184",
     "title": "Poems",
-    "year": 1818
+    "year": "1818",
+    "id": "KSqvP6jI_fYGbk8DT2m0x"
   },
   {
     "author": "Doris Lessing",
@@ -565,9 +621,10 @@
     "image": "the-golden-notebook.jpg",
     "language": "English",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 688,
+    "pages": "688",
     "title": "The Golden Notebook",
-    "year": 1962
+    "year": "1962",
+    "id": "0cT4qkW1tGtSbLvnzXZAk"
   },
   {
     "author": "Astrid Lindgren",
@@ -575,9 +632,10 @@
     "image": "pippi-longstocking.jpg",
     "language": "Swedish",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 160,
+    "pages": "160",
     "title": "Pippi Longstocking",
-    "year": 1945
+    "year": "1945",
+    "id": "7PyN93eDet3Gsv1LdQyAL"
   },
   {
     "author": "Lu Xun",
@@ -585,9 +643,10 @@
     "image": "diary-of-a-madman.jpg",
     "language": "Chinese",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 389,
+    "pages": "389",
     "title": "Diary of a Madman",
-    "year": 1918
+    "year": "1918",
+    "id": "LSk1UIAfA_Dud8YYP36Hq"
   },
   {
     "author": "Naguib Mahfouz",
@@ -595,9 +654,10 @@
     "image": "children-of-gebelawi.jpg",
     "language": "Arabic",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 355,
+    "pages": "355",
     "title": "Children of Gebelawi",
-    "year": 1959
+    "year": "1959",
+    "id": "tIpl-NPecpUt0SxT8e1po"
   },
   {
     "author": "Thomas Mann",
@@ -605,9 +665,10 @@
     "image": "buddenbrooks.jpg",
     "language": "German",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 736,
+    "pages": "736",
     "title": "Buddenbrooks",
-    "year": 1901
+    "year": "1901",
+    "id": "_FoBc-yVvBOMfTKmmHS0U"
   },
   {
     "author": "Thomas Mann",
@@ -615,9 +676,10 @@
     "image": "the-magic-mountain.jpg",
     "language": "German",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 720,
+    "pages": "720",
     "title": "The Magic Mountain",
-    "year": 1924
+    "year": "1924",
+    "id": "aQufeWubCqv6OWlxPgae0"
   },
   {
     "author": "Herman Melville",
@@ -625,9 +687,10 @@
     "image": "moby-dick.jpg",
     "language": "English",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 378,
+    "pages": "378",
     "title": "Moby Dick",
-    "year": 1851
+    "year": "1851",
+    "id": "-LnmixGKTsgHFJ5FJ-2i6"
   },
   {
     "author": "Michel de Montaigne",
@@ -635,9 +698,10 @@
     "image": "essais.jpg",
     "language": "French",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 404,
+    "pages": "404",
     "title": "Essays",
-    "year": 1595
+    "year": "1595",
+    "id": "iSkdl-3mD5urZB_Iz7JyH"
   },
   {
     "author": "Elsa Morante",
@@ -645,9 +709,10 @@
     "image": "history.jpg",
     "language": "Italian",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 600,
+    "pages": "600",
     "title": "History",
-    "year": 1974
+    "year": "1974",
+    "id": "_onSyf91FBSO6NX9sUQNF"
   },
   {
     "author": "Toni Morrison",
@@ -655,9 +720,10 @@
     "image": "beloved.jpg",
     "language": "English",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 321,
+    "pages": "321",
     "title": "Beloved",
-    "year": 1987
+    "year": "1987",
+    "id": "hY5Ff33f9cRUL-j5PamM7"
   },
   {
     "author": "Murasaki Shikibu",
@@ -665,9 +731,10 @@
     "image": "the-tale-of-genji.jpg",
     "language": "Japanese",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 1360,
+    "pages": "1360",
     "title": "The Tale of Genji",
-    "year": 1006
+    "year": "1006",
+    "id": "9lz1eNq0k-SUxFrkzSim7"
   },
   {
     "author": "Robert Musil",
@@ -675,9 +742,10 @@
     "image": "the-man-without-qualities.jpg",
     "language": "German",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 365,
+    "pages": "365",
     "title": "The Man Without Qualities",
-    "year": 1931
+    "year": "1931",
+    "id": "6iuGIMrr7Wrn-mZA3TsYd"
   },
   {
     "author": "Vladimir Nabokov",
@@ -685,9 +753,10 @@
     "image": "lolita.jpg",
     "language": "English",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 317,
+    "pages": "317",
     "title": "Lolita",
-    "year": 1955
+    "year": "1955",
+    "id": "Lg1Vjxeo_b9qAoYmVMQmO"
   },
   {
     "author": "George Orwell",
@@ -695,9 +764,10 @@
     "image": "nineteen-eighty-four.jpg",
     "language": "English",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 272,
+    "pages": "272",
     "title": "Nineteen Eighty-Four",
-    "year": 1949
+    "year": "1949",
+    "id": "oPE1L9HpWWWa5Sf8AaBp4"
   },
   {
     "author": "Ovid",
@@ -705,9 +775,10 @@
     "image": "the-metamorphoses-of-ovid.jpg",
     "language": "Classical Latin",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 576,
+    "pages": "576",
     "title": "Metamorphoses",
-    "year": 100
+    "year": "100",
+    "id": "Xx0Q4GdfqK0vKladeWIcj"
   },
   {
     "author": "Fernando Pessoa",
@@ -715,9 +786,10 @@
     "image": "the-book-of-disquiet.jpg",
     "language": "Portuguese",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 272,
+    "pages": "272",
     "title": "The Book of Disquiet",
-    "year": 1928
+    "year": "1928",
+    "id": "4ZvaRM3ef4YOkJUJUrQi5"
   },
   {
     "author": "Edgar Allan Poe",
@@ -725,9 +797,10 @@
     "image": "tales-and-poems-of-edgar-allan-poe.jpg",
     "language": "English",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 842,
+    "pages": "842",
     "title": "Tales",
-    "year": 1950
+    "year": "1950",
+    "id": "Ke9rn5p0W20PJkp0KyCgB"
   },
   {
     "author": "Marcel Proust",
@@ -735,9 +808,10 @@
     "image": "a-la-recherche-du-temps-perdu.jpg",
     "language": "French",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 2408,
+    "pages": "2408",
     "title": "In Search of Lost Time",
-    "year": 1920
+    "year": "1920",
+    "id": "vANR0wMxwGPcBiKlB1GcR"
   },
   {
     "author": "François Rabelais",
@@ -745,9 +819,10 @@
     "image": "gargantua-and-pantagruel.jpg",
     "language": "French",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 623,
+    "pages": "623",
     "title": "Gargantua and Pantagruel",
-    "year": 1533
+    "year": "1533",
+    "id": "QhUKbwFu7_5hJ5_XQ7j4w"
   },
   {
     "author": "Juan Rulfo",
@@ -755,9 +830,10 @@
     "image": "pedro-paramo.jpg",
     "language": "Spanish",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 124,
+    "pages": "124",
     "title": "Pedro Páramo",
-    "year": 1955
+    "year": "1955",
+    "id": "4oHM7P0HKT_0UW8jZiigf"
   },
   {
     "author": "Rumi",
@@ -765,9 +841,10 @@
     "image": "the-masnavi.jpg",
     "language": "Persian",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 438,
+    "pages": "438",
     "title": "The Masnavi",
-    "year": 1236
+    "year": "1236",
+    "id": "yFEku0ylUsrJK1L8WMaHh"
   },
   {
     "author": "Salman Rushdie",
@@ -775,9 +852,10 @@
     "image": "midnights-children.jpg",
     "language": "English",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 536,
+    "pages": "536",
     "title": "Midnight's Children",
-    "year": 1981
+    "year": "1981",
+    "id": "7kVKhQT0mrlVJQ7tcKGBb"
   },
   {
     "author": "Saadi",
@@ -785,9 +863,10 @@
     "image": "bostan.jpg",
     "language": "Persian",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 298,
+    "pages": "298",
     "title": "Bostan",
-    "year": 1257
+    "year": "1257",
+    "id": "7i2YHE9P2krXU82DzaxKY"
   },
   {
     "author": "Tayeb Salih",
@@ -795,9 +874,10 @@
     "image": "season-of-migration-to-the-north.jpg",
     "language": "Arabic",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 139,
+    "pages": "139",
     "title": "Season of Migration to the North",
-    "year": 1966
+    "year": "1966",
+    "id": "siJyV-7j0D9SrQePxNaLg"
   },
   {
     "author": "José Saramago",
@@ -805,9 +885,10 @@
     "image": "blindness.jpg",
     "language": "Portuguese",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 352,
+    "pages": "352",
     "title": "Blindness",
-    "year": 1995
+    "year": "1995",
+    "id": "Q_cC5Knxac6UmxtagzV3T"
   },
   {
     "author": "William Shakespeare",
@@ -815,9 +896,10 @@
     "image": "hamlet.jpg",
     "language": "English",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 432,
+    "pages": "432",
     "title": "Hamlet",
-    "year": 1603
+    "year": "1603",
+    "id": "U0a-UYZp_v6YQZHP8QL2N"
   },
   {
     "author": "William Shakespeare",
@@ -825,9 +907,10 @@
     "image": "king-lear.jpg",
     "language": "English",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 384,
+    "pages": "384",
     "title": "King Lear",
-    "year": 1608
+    "year": "1608",
+    "id": "bcvom9IS_QVPR5MIXWFhw"
   },
   {
     "author": "William Shakespeare",
@@ -835,9 +918,10 @@
     "image": "othello.jpg",
     "language": "English",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 314,
+    "pages": "314",
     "title": "Othello",
-    "year": 1609
+    "year": "1609",
+    "id": "VGeT2PqjF1RnsISHupB4L"
   },
   {
     "author": "Sophocles",
@@ -845,9 +929,10 @@
     "image": "oedipus-the-king.jpg",
     "language": "Greek",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 88,
+    "pages": "88",
     "title": "Oedipus the King",
-    "year": -430
+    "year": "430 BC",
+    "id": "XdYUUiXS2x8_8gekE4RQf"
   },
   {
     "author": "Stendhal",
@@ -855,9 +940,10 @@
     "image": "le-rouge-et-le-noir.jpg",
     "language": "French",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 576,
+    "pages": "576",
     "title": "The Red and the Black",
-    "year": 1830
+    "year": "1830",
+    "id": "biyMXSuFQBMt56vZCHPYM"
   },
   {
     "author": "Laurence Sterne",
@@ -865,9 +951,10 @@
     "image": "the-life-and-opinions-of-tristram-shandy.jpg",
     "language": "English",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 640,
+    "pages": "640",
     "title": "The Life And Opinions of Tristram Shandy",
-    "year": 1760
+    "year": "1760",
+    "id": "C7dMhXDu2u4Qe_36kfBz9"
   },
   {
     "author": "Italo Svevo",
@@ -875,9 +962,10 @@
     "image": "confessions-of-zeno.jpg",
     "language": "Italian",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 412,
+    "pages": "412",
     "title": "Confessions of Zeno",
-    "year": 1923
+    "year": "1923",
+    "id": "iU3JQbbCx86fab83LpdnQ"
   },
   {
     "author": "Jonathan Swift",
@@ -885,9 +973,10 @@
     "image": "gullivers-travels.jpg",
     "language": "English",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 178,
+    "pages": "178",
     "title": "Gulliver's Travels",
-    "year": 1726
+    "year": "1726",
+    "id": "3NB98fooLLC7sxCbBHSYY"
   },
   {
     "author": "Leo Tolstoy",
@@ -895,9 +984,10 @@
     "image": "war-and-peace.jpg",
     "language": "Russian",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 1296,
+    "pages": "1296",
     "title": "War and Peace",
-    "year": 1867
+    "year": "1867",
+    "id": "H1sHzuozDTfjon7AEsc93"
   },
   {
     "author": "Leo Tolstoy",
@@ -905,9 +995,10 @@
     "image": "anna-karenina.jpg",
     "language": "Russian",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 864,
+    "pages": "864",
     "title": "Anna Karenina",
-    "year": 1877
+    "year": "1877",
+    "id": "h2ADwwdO25-5Xb0w_xgCz"
   },
   {
     "author": "Leo Tolstoy",
@@ -915,9 +1006,10 @@
     "image": "the-death-of-ivan-ilyich.jpg",
     "language": "Russian",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 92,
+    "pages": "92",
     "title": "The Death of Ivan Ilyich",
-    "year": 1886
+    "year": "1886",
+    "id": "PfdJbb5OL8r_NH1ISXtoi"
   },
   {
     "author": "Mark Twain",
@@ -925,9 +1017,10 @@
     "image": "the-adventures-of-huckleberry-finn.jpg",
     "language": "English",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 224,
+    "pages": "224",
     "title": "The Adventures of Huckleberry Finn",
-    "year": 1884
+    "year": "1884",
+    "id": "gBxaf_pjWmbpqgR6RvELj"
   },
   {
     "author": "Valmiki",
@@ -935,9 +1028,10 @@
     "image": "ramayana.jpg",
     "language": "Sanskrit",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 152,
+    "pages": "152",
     "title": "Ramayana",
-    "year": -450
+    "year": "450 BC",
+    "id": "46sg55mjCECTCrFzYHAAB"
   },
   {
     "author": "Virgil",
@@ -945,9 +1039,10 @@
     "image": "the-aeneid.jpg",
     "language": "Classical Latin",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 442,
+    "pages": "442",
     "title": "The Aeneid",
-    "year": -23
+    "year": "23 BC",
+    "id": "-PTHGJN0MUMiHdzCsJH-w"
   },
   {
     "author": "Vyasa",
@@ -955,9 +1050,10 @@
     "image": "the-mahab-harata.jpg",
     "language": "Sanskrit",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 276,
+    "pages": "276",
     "title": "Mahabharata",
-    "year": -700
+    "year": "700 BC",
+    "id": "rXEDGSWlPdDJ0hJA9335v"
   },
   {
     "author": "Walt Whitman",
@@ -965,9 +1061,10 @@
     "image": "leaves-of-grass.jpg",
     "language": "English",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 152,
+    "pages": "152",
     "title": "Leaves of Grass",
-    "year": 1855
+    "year": "1855",
+    "id": "6fNEQfLlpkQixAWLJYkW5"
   },
   {
     "author": "Virginia Woolf",
@@ -975,9 +1072,10 @@
     "image": "mrs-dalloway.jpg",
     "language": "English",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 216,
+    "pages": "216",
     "title": "Mrs Dalloway",
-    "year": 1925
+    "year": "1925",
+    "id": "mwEV2fokgD4j5dP9UXYql"
   },
   {
     "author": "Virginia Woolf",
@@ -985,9 +1083,10 @@
     "image": "to-the-lighthouse.jpg",
     "language": "English",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 209,
+    "pages": "209",
     "title": "To the Lighthouse",
-    "year": 1927
+    "year": "1927",
+    "id": "pdW-aqa62w9qCkpy_ZWX-"
   },
   {
     "author": "Marguerite Yourcenar",
@@ -995,8 +1094,9 @@
     "image": "memoirs-of-hadrian.jpg",
     "language": "French",
     "description": "Duis pharetra quis velit ac venenatis. Nam tincidunt eros ut justo lacinia, id bibendum magna condimentum. Nullam imperdiet euismod elementum. Proin vel commodo elit. Proin orci libero, mattis et turpis eu, pellentesque efficitur nulla. Maecenas sapien tortor, finibus nec ligula ut, porta fringilla tortor. Nam efficitur iaculis mauris, vitae laoreet justo imperdiet non. Pellentesque porta enim sit amet vestibulum ullamcorper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam vel diam a augue facilisis molestie dignissim at justo. Praesent id egestas enim, suscipit commodo augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
-    "pages": 408,
+    "pages": "408",
     "title": "Memoirs of Hadrian",
-    "year": 1951
+    "year": "1951",
+    "id": "oCw-8rNtVAIou_kJpRY6n"
   }
 ]
