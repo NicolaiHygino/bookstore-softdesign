@@ -14,8 +14,8 @@ export const Grid = styled.div`
   max-width: 1000px;
   padding: 10px;
   margin: 30px auto;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
-  grid-gap: 20px;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 30px;
 `;
 
 export const GridItem = styled.div`
@@ -24,9 +24,11 @@ export const GridItem = styled.div`
   overflow: hidden;
 `;
 
-export const Image = styled.div`
-  width: 100%;
-  height: 300px;
+
+export const Image = styled.img`
+  margin: auto;
+  display: block;
+  height: 230px;
   background-color: palevioletred;
 `;
 
@@ -35,8 +37,11 @@ export const InfoWrapper = styled.div`
 `;
 
 export const Title = styled.h2`
-  font-size: 1.3em;
+  font-size: 1em;
   font-weight: 800;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 `;
 
 export const Price = styled.p`

@@ -1,68 +1,35 @@
 import React, { useState, useEffect } from 'react';
-import { 
-  Header,
-  Grid,
-  GridItem,
-  Image,
-  InfoWrapper,
-  Title,
-  Price,
-  ButtonWrapper,
-  Button,
-} from './style';
+import axios from 'axios';
+import * as S from './style';
 
 const Dashboard = () => {
+  const [books, setBooks] = useState([]);
+  
+  useEffect(() => {
+    axios.get('books.json').then(({data}) => setBooks(data));
+  }, []);
+
   return (
     <>
-      <Header>
+      <S.Header>
         <h1>Bookstore</h1>
-      </Header>
-      <Grid>
-        <GridItem>
-          <Image />
-          <InfoWrapper>
-            <Title>This is a Book</Title>
-            <Price>$8.99</Price>
-            <ButtonWrapper>
-              <Button>Rent</Button>
-              <Button>Details</Button>
-            </ButtonWrapper>
-          </InfoWrapper>
-        </GridItem>
-        <GridItem>
-          <Image />
-          <InfoWrapper>
-            <Title>This is a Book</Title>
-            <Price>$8.99</Price>
-            <ButtonWrapper>
-              <Button>Rent</Button>
-              <Button>Details</Button>
-            </ButtonWrapper>
-          </InfoWrapper>
-        </GridItem>
-        <GridItem>
-          <Image />
-          <InfoWrapper>
-            <Title>This is a Book</Title>
-            <Price>$8.99</Price>
-            <ButtonWrapper>
-              <Button>Rent</Button>
-              <Button>Details</Button>
-            </ButtonWrapper>
-          </InfoWrapper>
-        </GridItem>
-        <GridItem>
-          <Image />
-          <InfoWrapper>
-            <Title>This is a Book</Title>
-            <Price>$8.99</Price>
-            <ButtonWrapper>
-              <Button>Rent</Button>
-              <Button>Details</Button>
-            </ButtonWrapper>
-          </InfoWrapper>
-        </GridItem>
-      </Grid>
+      </S.Header>
+
+      <S.Grid>
+        {books.map(book => (
+          <S.GridItem key={book.author + book.title}>
+            <S.Image src={require(`../../assets/images/books/${book.image}`).default} />
+            <S.InfoWrapper>
+              <S.Title>{book.title}</S.Title>
+              <S.Price>$8.99</S.Price>
+              <S.ButtonWrapper>
+                <S.Button>Rent</S.Button>
+                <S.Button>Details</S.Button>
+              </S.ButtonWrapper>
+            </S.InfoWrapper>
+          </S.GridItem>
+        ))}
+      </S.Grid>
     </>
   );
 };
