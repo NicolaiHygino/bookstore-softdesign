@@ -4,6 +4,7 @@ export const GlobalStyle = createGlobalStyle`
   :root {
     --main-color: #6c5ce7;
     --error: #e74c3c;
+    --second-text: #636e72;
   }
 
   * {

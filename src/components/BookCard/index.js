@@ -9,9 +9,9 @@ import {
   Button,
 } from './style';
 
-const BookCard = ({ book }) => {
+const BookCard = ({ book, setDetails }) => {
   return (
-    <GridItem>
+    <GridItem onClick={() => setDetails(book)}>
       <Image src={require(`assets/images/books/${book.image}`).default} />
       <InfoWrapper>
         <Title>{book.title}</Title>

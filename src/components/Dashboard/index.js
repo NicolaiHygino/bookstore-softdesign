@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import BookCard from 'components/BookCard';
+import DetailsModal from 'components/DetailsModal';
 import {
   Header,
   Content,
@@ -13,6 +14,7 @@ import { AiOutlineSearch } from 'react-icons/ai';
 const Dashboard = () => {
   const [books, setBooks] = useState([]);
   const [searchTerm, setSearchTerm] = useState('');
+  const [details, setDetails] = useState(null);
 
   const filteredBooks = books
     .filter(book => book.title.toLowerCase().includes(searchTerm));
@@ -23,6 +25,7 @@ const Dashboard = () => {
 
   return (
     <>
+      {details && <DetailsModal details={details} setDetails={setDetails} />}
       <Header>
         <h1>Bookstore</h1>
       </Header>
@@ -45,6 +48,7 @@ const Dashboard = () => {
             <BookCard 
               key={`${book.author}${book.title}`}
               book={book}
+              setDetails={setDetails}
             />
           )}
         </Grid>
