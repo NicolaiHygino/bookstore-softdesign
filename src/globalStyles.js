@@ -2,7 +2,7 @@ import { createGlobalStyle } from "styled-components";
 
 export const GlobalStyle = createGlobalStyle`
   :root {
-    --main-color: #EA7C2C;
+    --main-color: #6c5ce7;
     --error: #e74c3c;
   }
 
@@ -16,7 +16,7 @@ export const GlobalStyle = createGlobalStyle`
   }
 
   body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
   }
 
   h1, h2, h3, h4, h5, h6, p {
