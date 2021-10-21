@@ -18,7 +18,7 @@ const Dashboard = () => {
       <S.Grid>
         {books.map(book => (
           <S.GridItem key={book.author + book.title}>
-            <S.Image src={require(`../../assets/images/books/${book.image}`).default} />
+            <S.Image src={require(`assets/images/books/${book.image}`).default} />
             <S.InfoWrapper>
               <S.Title>{book.title}</S.Title>
               <S.Price>$8.99</S.Price>
