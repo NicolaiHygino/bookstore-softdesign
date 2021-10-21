@@ -1,6 +1,13 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
-import * as S from './style';
+import BookCard from 'components/BookCard';
+import {
+  Header,
+  Content,
+  IconField,
+  Input,
+  Grid,
+} from './style';
 import { AiOutlineSearch } from 'react-icons/ai';
 
 const Dashboard = () => {
@@ -16,40 +23,32 @@ const Dashboard = () => {
 
   return (
     <>
-      <S.Header>
+      <Header>
         <h1>Bookstore</h1>
-      </S.Header>
+      </Header>
 
-      <S.Content>
+      <Content>
         <label htmlFor="search">Search </label>
-        <S.IconField>
+        <IconField>
           <AiOutlineSearch size="1.5em" />
-          <S.Input
+          <Input
             id="search"
             type="text"
             name="search"
             value={searchTerm} 
             onChange={e => setSearchTerm(e.target.value.toLowerCase())}
           />
-        </S.IconField>
-        
+        </IconField>
 
-        <S.Grid>
-          {filteredBooks.map(book => (
-            <S.GridItem key={book.author + book.title}>
-              <S.Image src={require(`assets/images/books/${book.image}`).default} />
-              <S.InfoWrapper>
-                <S.Title>{book.title}</S.Title>
-                <S.Price>$8.99</S.Price>
-                <S.ButtonWrapper>
-                  <S.Button>Rent</S.Button>
-                  <S.Button>Details</S.Button>
-                </S.ButtonWrapper>
-              </S.InfoWrapper>
-            </S.GridItem>
-          ))}
-        </S.Grid>
-      </S.Content>
+        <Grid>
+          {filteredBooks.map(book => 
+            <BookCard 
+              key={`${book.author}${book.title}`}
+              book={book}
+            />
+          )}
+        </Grid>
+      </Content>
     </>
   );
 };
