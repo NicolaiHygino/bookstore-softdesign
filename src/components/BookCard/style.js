@@ -34,6 +34,8 @@ export const ButtonWrapper = styled.div`
   display: flex;
   justify-content: space-between;
   margin-top: 20px;
+  border-top: 1px solid #ecf0f1;
+  padding-top: 10px;
 `;
 
 export const EditButton = styled.button`

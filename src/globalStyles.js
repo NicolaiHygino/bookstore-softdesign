@@ -43,6 +43,7 @@ export const Button = styled.button`
   border-radius: 3px;
   color: white;
   padding: .6em 1em;
+  letter-spacing: 1px;
   cursor: pointer;
 `;
 
