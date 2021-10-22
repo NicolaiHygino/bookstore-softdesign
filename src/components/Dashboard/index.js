@@ -3,7 +3,7 @@ import axios from 'axios';
 import { nanoid } from 'nanoid';
 import BookCard from 'components/BookCard';
 import BookDetails from 'components/BookDetails';
-import EditModal from 'components/EditModal';
+import EditBook from 'components/EditBook';
 import NewBook  from 'components/NewBook';
 import Header from 'components/Header';
 import {
@@ -93,7 +93,7 @@ const Dashboard = () => {
       </Content>
 
       {bookToEdit &&
-        <EditModal
+        <EditBook
           book={bookToEdit}
           editBook={editBook}
           setBookToEdit={setBookToEdit}

@@ -13,7 +13,7 @@ import {
 } from '../styledForm';
 import { Background, Modal } from 'globalStyles';
 
-const EditModal = ({ book, setBookToEdit, editBook }) => {
+const EditBook = ({ book, setBookToEdit, editBook }) => {
   return (
     <Background onClick={() => setBookToEdit(null)}>
       <Modal onClick={e => e.stopPropagation()}>
@@ -76,4 +76,4 @@ const EditModal = ({ book, setBookToEdit, editBook }) => {
   );
 };
 
-export default EditModal;
+export default EditBook;
