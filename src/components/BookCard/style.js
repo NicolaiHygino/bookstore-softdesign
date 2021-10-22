@@ -43,12 +43,18 @@ export const EditButton = styled.button`
   top: 0;
   left: 0;
   border: 0;
-  border-radius: 3px;
   width: 3em;
   height: 3em;
   background-color: #0984e3;
   color: white;
   cursor: pointer;
+`;
+
+export const RemoveButton = styled(EditButton)`
+  top: 3em;
+  left: 0;
+  background-color: #d63031;
+  border-bottom-right-radius: 3px;
 `;
 
 export const RentedLabel = styled.div`

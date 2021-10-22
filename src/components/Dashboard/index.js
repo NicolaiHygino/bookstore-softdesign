@@ -49,6 +49,11 @@ const Dashboard = () => {
     setShowNewBook(false);
   }
 
+  const removeBook = (id) => {
+    const removedBook = books.filter(book => book.id !== id);
+    setBooks(removedBook);
+  }
+
   const filteredBooks = books
     .filter(book => book.title.toLowerCase().includes(searchTerm));
 
@@ -85,6 +90,7 @@ const Dashboard = () => {
               book={book}
               isEditing={isEditing}
               rentBook={rentBook}
+              removeBook={removeBook}
               setDetails={setDetails}
               setBookToEdit={setBookToEdit}
             />

@@ -7,17 +7,30 @@ import {
   Price,
   ButtonWrapper,
   EditButton,
+  RemoveButton,
 } from './style';
 import { RentedLabel, Button } from 'globalStyles';
-import { BsPencilFill } from 'react-icons/bs';
+import { BsPencilFill, BsTrashFill } from 'react-icons/bs';
 
-const BookCard = ({ book, isEditing, rentBook, setDetails, setBookToEdit }) => {
+const BookCard = ({
+  book,
+  isEditing,
+  rentBook,
+  removeBook,
+  setDetails,
+  setBookToEdit
+}) => {
   return (
     <GridItem>
       {!book.isRented && isEditing ? (
-        <EditButton onClick={() => setBookToEdit(book)}>
-          <BsPencilFill size="1.2em"/>
-        </EditButton>
+        <>
+          <EditButton onClick={() => setBookToEdit(book)}>
+            <BsPencilFill size="1.2em"/>
+          </EditButton>
+          <RemoveButton onClick={() => removeBook(book.id)}>
+            <BsTrashFill size="1.2em"/>
+          </RemoveButton>
+        </>
       ) : null }
 
       {book.isRented && <RentedLabel>Rented</RentedLabel>}
