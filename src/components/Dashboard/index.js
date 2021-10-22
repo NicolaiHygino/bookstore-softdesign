@@ -3,17 +3,14 @@ import axios from 'axios';
 import BookCard from 'components/BookCard';
 import DetailsModal from 'components/DetailsModal';
 import EditModal from 'components/EditModal';
+import Header from 'components/Header';
 import {
-  Header,
   Content,
   IconField,
   Input,
   Grid,
 } from './style';
 import { AiOutlineSearch } from 'react-icons/ai';
-import { BsPencilFill } from 'react-icons/bs';
-import { IoMdDoneAll } from 'react-icons/io';
-import { Button } from 'globalStyles';
 
 const Dashboard = () => {
   const [books, setBooks] = useState([]);
@@ -52,27 +49,11 @@ const Dashboard = () => {
 
   return (
     <>
-      <Header>
-        <h1>Bookstore</h1>
-          {!isEditing ? (
-            <Button 
-              onClick={() => setIsEditing(!isEditing)}
-              style={{ marginLeft: 'auto'}}
-            >
-              <BsPencilFill style={{ marginRight: '10px'}} />
-              Edit Books
-            </Button>
-          ) : (
-            <Button 
-              onClick={() => setIsEditing(!isEditing)}
-              style={{ marginLeft: 'auto'}}
-            >
-              <IoMdDoneAll style={{ marginRight: '10px'}} />
-              Done
-            </Button>
-          )}
-      </Header>
-
+      <Header
+        isEditing={isEditing}
+        setIsEditing={setIsEditing}
+      />
+      
       <Content>
         <label htmlFor="search">Search </label>
         <IconField>

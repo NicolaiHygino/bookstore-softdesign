@@ -45,3 +45,11 @@ export const Button = styled.button`
   padding: .6em 1em;
   cursor: pointer;
 `;
+
+export const IconButton = styled(Button)`
+  margin-right: 20px;
+  
+  & svg {
+    margin-right: 10px;
+  }
+`;
