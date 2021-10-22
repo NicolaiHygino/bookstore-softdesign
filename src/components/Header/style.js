@@ -13,3 +13,7 @@ export const StyledHeader = styled.header`
   background-color: rgba(236, 240, 241, .8);
   backdrop-filter: blur(8px);
 `;
+
+export const Nav = styled.div`
+  margin-left: auto;
+`;
