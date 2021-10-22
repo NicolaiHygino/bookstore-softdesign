@@ -4,12 +4,17 @@ import { BsPencilFill, BsPlusLg } from 'react-icons/bs';
 import { IoMdDoneAll } from 'react-icons/io';
 import { IconButton } from 'globalStyles';
 
-const Header = ({ isEditing, setIsEditing}) => {
+const Header = ({
+  isEditing,
+  showNewBook,
+  setShowNewBook,
+  setIsEditing,
+}) => {
   return (
     <StyledHeader>
       <h1>Bookstore</h1>
       <Nav>
-        <IconButton onClick={() => setIsEditing(!isEditing)}>
+        <IconButton onClick={() => setShowNewBook(!showNewBook)}>
           <BsPlusLg />
           New Book
         </IconButton>

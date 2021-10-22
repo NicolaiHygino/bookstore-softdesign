@@ -21,8 +21,12 @@ const BookCard = ({ book, isEditing, rentBook, setDetails, setBookToEdit }) => {
       ) : null }
 
       {book.isRented && <RentedLabel>Rented</RentedLabel>}
-
-      <Image src={require(`assets/images/books/${book.image}`).default} />
+      
+      {typeof book.image === 'string' ? (
+        <Image src={require(`assets/images/books/${book.image}`).default} />
+      ) : (
+        <Image src={URL.createObjectURL(book.image)} />
+      )}
       
       <InfoWrapper>
         <Title>{book.title}</Title>
