@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import { nanoid } from 'nanoid';
 import BookCard from 'components/BookCard';
-import DetailsModal from 'components/DetailsModal';
+import BookDetails from 'components/BookDetails';
 import EditModal from 'components/EditModal';
 import NewBook  from 'components/NewBook';
 import Header from 'components/Header';
@@ -101,7 +101,7 @@ const Dashboard = () => {
       }
 
       {details && 
-        <DetailsModal
+        <BookDetails
           details={details} 
           rentBook={rentBook}
           setDetails={setDetails}

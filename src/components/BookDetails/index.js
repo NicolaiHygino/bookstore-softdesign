@@ -14,7 +14,7 @@ import {
 } from './style';
 import { RentedLabel, Modal, Background } from 'globalStyles';
 
-const DetailsModal = ({ details, setDetails, rentBook }) => {
+const BookDetails = ({ details, setDetails, rentBook }) => {
   return (
     <Background onClick={() => setDetails(null)}>
       <Modal onClick={e => e.stopPropagation()}>
@@ -77,4 +77,4 @@ const DetailsModal = ({ details, setDetails, rentBook }) => {
   );
 };
 
-export default DetailsModal;
+export default BookDetails;
