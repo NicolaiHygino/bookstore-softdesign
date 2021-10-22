@@ -62,9 +62,15 @@ const DetailsModal = ({ details, setDetails, rentBook }) => {
           )}
         </InformationDetail>
         {typeof details.image === 'string' ? (
-          <img src={require(`assets/images/books/${details.image}`).default} />
+          <img
+            src={require(`assets/images/books/${details.image}`).default}
+            alt={details.title}
+          />
         ) : (
-          <img src={URL.createObjectURL(details.image)} />
+          <img 
+            src={URL.createObjectURL(details.image)}
+            alt={details.title}
+          />
         )}
       </Modal>
     </Background>

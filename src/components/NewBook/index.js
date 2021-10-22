@@ -83,10 +83,12 @@ const NewBook = ({ addNewBook, setShowNewBook }) => {
         {preview ? (
           <img 
             src={URL.createObjectURL(preview)}
+            alt="preview"
           />
         ) : (
           <img 
             src={require(`assets/images/books/default-image-bookstore.jpg`).default}
+            alt="default book preview"
           />
         )}
       </Modal>
