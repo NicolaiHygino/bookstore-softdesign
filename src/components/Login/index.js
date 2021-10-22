@@ -5,10 +5,10 @@ import {
   FieldWrapper,
   StyledForm,
   StyledField,
-  Button,
   Header,
   Error,
 } from './style';
+import { Button } from 'globalStyles';
 
 const dummyLoginApi = (username, password) => {
   if (username === 'admin' && password === 'admin') {

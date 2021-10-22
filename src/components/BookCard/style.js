@@ -36,12 +36,16 @@ export const ButtonWrapper = styled.div`
   margin-top: 20px;
 `;
 
-export const Button = styled.button`
-  background-color: var(--main-color);
+export const EditButton = styled.button`
+  position: absolute;
+  top: 0;
+  left: 0;
   border: 0;
   border-radius: 3px;
+  width: 3em;
+  height: 3em;
+  background-color: #0984e3;
   color: white;
-  padding: .6em 1em;
   cursor: pointer;
 `;
 

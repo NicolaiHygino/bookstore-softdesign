@@ -6,15 +6,24 @@ import {
   Title,
   Price,
   ButtonWrapper,
-  Button,
+  EditButton,
 } from './style';
-import { RentedLabel } from 'globalStyles';
+import { RentedLabel, Button } from 'globalStyles';
+import { BsPencilFill } from 'react-icons/bs';
 
-const BookCard = ({ book, setDetails, rentBook }) => {
+const BookCard = ({ book, isEditing, rentBook, setDetails, setBookToEdit }) => {
   return (
     <GridItem>
+      {!book.isRented && isEditing ? (
+        <EditButton onClick={() => setBookToEdit(book)}>
+          <BsPencilFill size="1.2em"/>
+        </EditButton>
+      ) : null }
+
       {book.isRented && <RentedLabel>Rented</RentedLabel>}
+
       <Image src={require(`assets/images/books/${book.image}`).default} />
+      
       <InfoWrapper>
         <Title>{book.title}</Title>
         <Price>$8.99</Price>

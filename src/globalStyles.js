@@ -36,3 +36,12 @@ export const RentedLabel = styled.div`
   padding: 20px;
   width: 200px;
 `;
+
+export const Button = styled.button`
+  background-color: var(--main-color);
+  border: 0;
+  border-radius: 3px;
+  color: white;
+  padding: .6em 1em;
+  cursor: pointer;
+`;
