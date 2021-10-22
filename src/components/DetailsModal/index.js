@@ -2,8 +2,6 @@ import React from 'react';
 import { BsCalendar4, BsBookmark} from 'react-icons/bs';
 import { IoEarthOutline } from 'react-icons/io5';
 import {
-  Background,
-  Modal,
   InformationDetail,
   Title,
   Author,
@@ -14,7 +12,7 @@ import {
   ExitButton,
   LabelWrapper,
 } from './style';
-import { RentedLabel } from 'globalStyles';
+import { RentedLabel, Modal, Background } from 'globalStyles';
 
 const DetailsModal = ({ details, setDetails, rentBook }) => {
   return (

@@ -1,8 +1,6 @@
 import React from 'react';
-import { Formik, Field} from 'formik';
+import { Formik, Field } from 'formik';
 import {
-  Background,
-  Modal,
   StyledForm,
   Label,
   FieldWrapper,
@@ -12,7 +10,8 @@ import {
   RowField,
   Button,
   ExitButton,
-} from './style';
+} from '../styledForm';
+import { Background, Modal } from 'globalStyles';
 
 const EditModal = ({ book, setBookToEdit, editBook }) => {
   return (

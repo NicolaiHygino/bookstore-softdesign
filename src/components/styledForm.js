@@ -1,30 +1,5 @@
 import styled from 'styled-components';
-import { Form, Field, ErrorMessage } from 'formik';
-
-
-export const Background = styled.div`
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100vw;
-  height: 100vh;
-  background-color: rgba(0, 0, 0, .5);
-  z-index: 1;
-`;
-
-export const Modal = styled.section`
-  display: flex;
-  position: relative;
-  max-width: 800px;
-  padding: 30px 20px;
-  width: 100%;
-  max-height: 600px;
-  background-color: white;
-  border-radius: 5px;
-`;
+import { Form, Field } from 'formik';
 
 export const StyledForm = styled(Form)`
   margin-right: 30px;
@@ -61,6 +36,7 @@ export const StyledField = styled(Field)`
 export const Row = styled.div`
   display: flex;
 `;
+
 
 export const RowLabel = styled.label`
   font-size: 1em;

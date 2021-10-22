@@ -1,8 +1,6 @@
 import React, { useState } from 'react';
 import { Formik, Field } from 'formik';
 import {
-  Background,
-  Modal,
   StyledForm,
   Label,
   FieldWrapper,
@@ -12,9 +10,10 @@ import {
   RowField,
   Button,
   ExitButton,
-} from './style';
+} from '../styledForm';
+import { Background, Modal } from 'globalStyles';
 
-const NewBook = ({ addNewBook, showNewBook, setShowNewBook }) => {
+const NewBook = ({ addNewBook, setShowNewBook }) => {
   const [preview, setPreview] = useState();
   
   return (
