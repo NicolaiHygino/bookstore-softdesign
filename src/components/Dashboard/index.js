@@ -16,6 +16,16 @@ const Dashboard = () => {
   const [searchTerm, setSearchTerm] = useState('');
   const [details, setDetails] = useState(null);
 
+  const rentBook = (id) => {
+    const editedBooks = books.map(book => {
+      if (book.id === id) {
+        return {...book, isRented: true}
+      }
+      return book;
+    })
+    setBooks(editedBooks);
+  };
+
   const filteredBooks = books
     .filter(book => book.title.toLowerCase().includes(searchTerm));
 
@@ -25,7 +35,13 @@ const Dashboard = () => {
 
   return (
     <>
-      {details && <DetailsModal details={details} setDetails={setDetails} />}
+      {details && 
+        <DetailsModal 
+          details={details} 
+          setDetails={setDetails}
+          rentBook={rentBook}
+        />
+      }
       <Header>
         <h1>Bookstore</h1>
       </Header>
@@ -49,6 +65,7 @@ const Dashboard = () => {
               key={book.id}
               book={book}
               setDetails={setDetails}
+              rentBook={rentBook}
             />
           )}
         </Grid>

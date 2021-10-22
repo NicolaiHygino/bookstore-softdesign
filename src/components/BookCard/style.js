@@ -1,6 +1,7 @@
 import styled from 'styled-components';
 
 export const GridItem = styled.div`
+  position: relative;
   border: 1px solid #ecf0f1;
   border-radius: 5px;
   overflow: hidden;
@@ -42,4 +43,16 @@ export const Button = styled.button`
   color: white;
   padding: .6em 1em;
   cursor: pointer;
+`;
+
+export const RentedLabel = styled.div`
+  position: absolute;
+  top: 10px;
+  right: -60px;
+  background-color: #ff6b6b;
+  text-align: center;
+  color: white;
+  transform: rotate(45deg);
+  padding: 20px;
+  width: 200px;
 `;

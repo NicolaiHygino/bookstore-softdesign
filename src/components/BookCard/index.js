@@ -8,17 +8,23 @@ import {
   ButtonWrapper,
   Button,
 } from './style';
+import { RentedLabel } from 'globalStyles';
 
-const BookCard = ({ book, setDetails }) => {
+const BookCard = ({ book, setDetails, rentBook }) => {
   return (
-    <GridItem onClick={() => setDetails(book)}>
+    <GridItem>
+      {book.isRented && <RentedLabel>Rented</RentedLabel>}
       <Image src={require(`assets/images/books/${book.image}`).default} />
       <InfoWrapper>
         <Title>{book.title}</Title>
         <Price>$8.99</Price>
         <ButtonWrapper>
-          <Button>Rent</Button>
-          <Button>Details</Button>
+          {!book.isRented && (
+            <Button onClick={() => rentBook(book.id)}>
+              Rent
+            </Button>
+          )}
+          <Button onClick={() => setDetails(book)}>Details</Button>
         </ButtonWrapper>
       </InfoWrapper>
     </GridItem>

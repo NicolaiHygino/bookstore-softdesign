@@ -24,12 +24,17 @@ export const Modal = styled.section`
   border-radius: 5px;
 `;
 
-export const InformationDetail = styled.div`
-  margin-right: 30px;
+export const LabelWrapper = styled.div`
+  position: absolute;
+  overflow: hidden;
+  top: 0;
+  right: 0;
+  width: 200px;
+  height: 200px;
 `;
 
-export const Image = styled.img`
-
+export const InformationDetail = styled.div`
+  margin-right: 30px;
 `;
 
 export const Title = styled.h2`

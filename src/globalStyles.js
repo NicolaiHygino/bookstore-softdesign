@@ -1,4 +1,4 @@
-import { createGlobalStyle } from "styled-components";
+import styled, { createGlobalStyle } from "styled-components";
 
 export const GlobalStyle = createGlobalStyle`
   :root {
@@ -23,4 +23,16 @@ export const GlobalStyle = createGlobalStyle`
   h1, h2, h3, h4, h5, h6, p {
     margin: 0;
   }
+`;
+
+export const RentedLabel = styled.div`
+  position: absolute;
+  top: 10px;
+  right: -60px;
+  background-color: #ff6b6b;
+  text-align: center;
+  color: white;
+  transform: rotate(45deg);
+  padding: 20px;
+  width: 200px;
 `;

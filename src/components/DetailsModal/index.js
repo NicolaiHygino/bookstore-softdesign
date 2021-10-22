@@ -1,4 +1,6 @@
 import React from 'react';
+import { BsCalendar4, BsBookmark} from 'react-icons/bs';
+import { IoEarthOutline } from 'react-icons/io5';
 import {
   Background,
   Modal,
@@ -8,17 +10,21 @@ import {
   IconsWrapper,
   InfoIcon,
   IconText,
-  Image,
   Button,
   ExitButton,
+  LabelWrapper,
 } from './style';
-import { BsCalendar4, BsBookmark} from 'react-icons/bs';
-import { IoEarthOutline } from 'react-icons/io5';
+import { RentedLabel } from 'globalStyles';
 
-const DetailsModal = ({ details, setDetails }) => {
+const DetailsModal = ({ details, setDetails, rentBook }) => {
   return (
     <Background onClick={() => setDetails(null)}>
       <Modal onClick={e => e.stopPropagation()}>
+        {details.isRented && (
+          <LabelWrapper>
+            <RentedLabel>Rented</RentedLabel>
+          </LabelWrapper>
+        )}
         <ExitButton onClick={() => setDetails(null)}>X</ExitButton>
         <InformationDetail>
           <Title>{details.title}</Title>
@@ -51,9 +57,13 @@ const DetailsModal = ({ details, setDetails }) => {
               </IconText>
             </InfoIcon>
           </IconsWrapper>
-          <Button>Rent</Button>
+          {!details.isRented && (
+            <Button onClick={() => rentBook(details.id)}>
+              Rent
+            </Button>
+          )}
         </InformationDetail>
-        <Image 
+        <img 
           src={require(`assets/images/books/${details.image}`).default}
           alt={details.title}  
         />
