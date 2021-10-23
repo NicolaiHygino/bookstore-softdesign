@@ -11,7 +11,6 @@ export const Background = styled.div`
   height: 100vh;
   background-color: rgba(0, 0, 0, .5);
   z-index: 1;
-  overflow: scroll;
 `;
 
 export const Modal = styled.section`
@@ -32,7 +31,7 @@ export const ModalContent = styled.div`
   padding: 30px 10px;
   width: 100%;
   max-height: 600px;
-  overflow: scroll;
+  overflow-y: scroll;
 
   @media screen and (max-width: 550px) {
     display: block;

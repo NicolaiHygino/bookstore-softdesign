@@ -29,14 +29,14 @@ const EditBook = ({ book, setBookToEdit, editBook }) => {
       <Modal onClick={e => e.stopPropagation()}>
         <ExitButton onClick={() => setBookToEdit(null)}>X</ExitButton>
         <ModalContent>
-          <ImageWrapper>
-            {isMobile && (
-              <Image 
-                src={require(`assets/images/books/${book.image}`).default}
-                alt={book.title}  
-              />
-            )}
-          </ImageWrapper>
+          {isMobile && (
+            <ImageWrapper>
+                <Image 
+                  src={require(`assets/images/books/${book.image}`).default}
+                  alt={book.title}  
+                />
+            </ImageWrapper>
+          )}
           <DetailsWrapper>
             <Formik
               initialValues={{
@@ -88,14 +88,14 @@ const EditBook = ({ book, setBookToEdit, editBook }) => {
               </StyledForm>
             </Formik>
           </DetailsWrapper>
-          <ImageWrapper>
-            {!isMobile && (
+          {!isMobile && (
+            <ImageWrapper>
               <Image 
                 src={require(`assets/images/books/${book.image}`).default}
                 alt={book.title}  
               />
-            )}
-          </ImageWrapper>
+            </ImageWrapper>
+          )}
         </ModalContent>
       </Modal>
     </Background>
