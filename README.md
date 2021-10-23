@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Enjoy :)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created for a code challange for SoftDesign.
 
 ## Available Scripts
 
