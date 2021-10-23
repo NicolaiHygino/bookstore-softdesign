@@ -39,7 +39,7 @@ const NewBook = ({ addNewBook, setShowNewBook }) => {
                 />
               ) : (
                 <Image 
-                  src={require(`assets/images/books/default-image-bookstore.jpg`).default}
+                  src={`images/books/default-image-bookstore.jpg`}
                   alt="default book preview"
                 />
               )}
@@ -62,17 +62,17 @@ const NewBook = ({ addNewBook, setShowNewBook }) => {
                 <StyledForm>
                   <FieldWrapper> 
                     <Label htmlFor="title">Title</Label>
-                    <StyledField name="title" type="text" />
+                    <StyledField id="title" name="title" type="text" />
                   </FieldWrapper>
                   
                   <FieldWrapper> 
                     <Label htmlFor="author">Author</Label>
-                    <StyledField name="author" type="text" />
+                    <StyledField id="author" name="author" type="text" />
                   </FieldWrapper>
 
                   <FieldWrapper> 
                     <Label htmlFor="description">Description</Label>
-                    <Field name="description" as="textarea" />
+                    <Field id="description" name="description" as="textarea" />
                   </FieldWrapper>
                   
                   <FieldWrapper>
@@ -86,17 +86,17 @@ const NewBook = ({ addNewBook, setShowNewBook }) => {
                   <Row>
                     <FieldWrapper> 
                       <RowLabel htmlFor="pages">Pages</RowLabel>
-                      <RowField name="pages" type="text" />
+                      <RowField id="pages" name="pages" type="text" />
                     </FieldWrapper>
                     
                     <FieldWrapper> 
                       <RowLabel htmlFor="publication">Publication</RowLabel>
-                      <RowField name="publication" type="text" />
+                      <RowField id="publication" name="publication" type="text" />
                     </FieldWrapper>
                     
                     <FieldWrapper> 
                       <RowLabel htmlFor="language">Language</RowLabel>
-                      <RowField name="language" type="text" />
+                      <RowField id="language" name="language" type="text" />
                     </FieldWrapper>
                   </Row>
 
@@ -116,7 +116,7 @@ const NewBook = ({ addNewBook, setShowNewBook }) => {
                 />
               ) : (
                 <Image 
-                  src={require(`assets/images/books/default-image-bookstore.jpg`).default}
+                  src={`images/books/default-image-bookstore.jpg`}
                   alt="default book preview"
                 />
               )}

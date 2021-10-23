@@ -38,7 +38,7 @@ const BookDetails = ({ details, setDetails, rentBook }) => {
             <ImageWrapper>
               {typeof details.image === 'string' ? (
                 <Image
-                  src={require(`assets/images/books/${details.image}`).default}
+                  src={`/images/books/${details.image}`}
                   alt={details.title}
                 />
               ) : (
@@ -90,7 +90,7 @@ const BookDetails = ({ details, setDetails, rentBook }) => {
             <ImageWrapper>
               {typeof details.image === 'string' ? (
                 <Image
-                  src={require(`assets/images/books/${details.image}`).default}
+                  src={`/images/books/${details.image}`}
                   alt={details.title}
                 />
               ) : (

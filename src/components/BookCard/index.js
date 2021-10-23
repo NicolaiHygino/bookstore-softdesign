@@ -24,10 +24,16 @@ const BookCard = ({
     <GridItem>
       {!book.isRented && isEditing ? (
         <>
-          <EditButton onClick={() => setBookToEdit(book)}>
+          <EditButton 
+            role="Edit"
+            onClick={() => setBookToEdit(book)}
+          >
             <BsPencilFill size="1.2em"/>
           </EditButton>
-          <RemoveButton onClick={() => removeBook(book.id)}>
+          <RemoveButton 
+            role="Remove"
+            onClick={() => removeBook(book.id)}
+          >
             <BsTrashFill size="1.2em"/>
           </RemoveButton>
         </>
@@ -36,7 +42,7 @@ const BookCard = ({
       {book.isRented && <RentedLabel>Rented</RentedLabel>}
       
       {typeof book.image === 'string' ? (
-        <Image src={require(`assets/images/books/${book.image}`).default} />
+        <Image src={`/images/books/${book.image}`} />
       ) : (
         <Image src={URL.createObjectURL(book.image)} />
       )}

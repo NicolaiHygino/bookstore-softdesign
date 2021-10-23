@@ -32,7 +32,7 @@ const EditBook = ({ book, setBookToEdit, editBook }) => {
           {isMobile && (
             <ImageWrapper>
                 <Image 
-                  src={require(`assets/images/books/${book.image}`).default}
+                  src={`/images/books/${book.image}`}
                   alt={book.title}  
                 />
             </ImageWrapper>
@@ -52,33 +52,33 @@ const EditBook = ({ book, setBookToEdit, editBook }) => {
               <StyledForm>
                 <FieldWrapper> 
                   <Label htmlFor="title">Title</Label>
-                  <StyledField name="title" type="text" />
+                  <StyledField id="title" name="title" type="text" />
                 </FieldWrapper>
                 
                 <FieldWrapper> 
                   <Label htmlFor="author">Author</Label>
-                  <StyledField name="author" type="text" />
+                  <StyledField id="author" name="author" type="text" />
                 </FieldWrapper>
 
                 <FieldWrapper> 
                   <Label htmlFor="description">Description</Label>
-                  <Field name="description" as="textarea" />
+                  <Field id="description" name="description" as="textarea" />
                 </FieldWrapper>
 
                 <Row>
                   <FieldWrapper> 
                     <RowLabel htmlFor="pages">Pages</RowLabel>
-                    <RowField name="pages" type="text" />
+                    <RowField id="pages" name="pages" type="text" />
                   </FieldWrapper>
                   
                   <FieldWrapper> 
                     <RowLabel htmlFor="publication">Publication</RowLabel>
-                    <RowField name="publication" type="text" />
+                    <RowField id="publication" name="publication" type="text" />
                   </FieldWrapper>
                   
                   <FieldWrapper> 
                     <RowLabel htmlFor="language">Language</RowLabel>
-                    <RowField name="language" type="text" />
+                    <RowField id="language" name="language" type="text" />
                   </FieldWrapper>
                 </Row>
 
@@ -91,7 +91,7 @@ const EditBook = ({ book, setBookToEdit, editBook }) => {
           {!isMobile && (
             <ImageWrapper>
               <Image 
-                src={require(`assets/images/books/${book.image}`).default}
+                src={`/images/books/${book.image}`}
                 alt={book.title}  
               />
             </ImageWrapper>
