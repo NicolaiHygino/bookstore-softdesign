@@ -12,6 +12,16 @@ export const StyledHeader = styled.header`
   height: 60px;
   background-color: rgba(236, 240, 241, .8);
   backdrop-filter: blur(8px);
+
+  @media screen and (max-width: 850px) {
+    padding: 8px;
+  }
+`;
+
+export const Logo = styled.h1`
+  @media screen and (max-width: 850px) {
+    font-size: 1em;
+  }
 `;
 
 export const Nav = styled.div`

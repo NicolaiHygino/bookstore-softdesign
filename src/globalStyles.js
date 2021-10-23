@@ -45,6 +45,11 @@ export const Button = styled.button`
   padding: .6em 1em;
   letter-spacing: 1px;
   cursor: pointer;
+
+  @media screen and (max-width: 850px) {
+    padding: .6em .8em;
+    font-size: .7em;
+  }
 `;
 
 export const IconButton = styled(Button)`
@@ -53,28 +58,8 @@ export const IconButton = styled(Button)`
   & svg {
     margin-right: 10px;
   }
-`;
 
-export const Background = styled.div`
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100vw;
-  height: 100vh;
-  background-color: rgba(0, 0, 0, .5);
-  z-index: 1;
-`;
-
-export const Modal = styled.section`
-  display: flex;
-  position: relative;
-  max-width: 800px;
-  padding: 30px 20px;
-  width: 100%;
-  max-height: 600px;
-  background-color: white;
-  border-radius: 5px;
+  @media screen and (max-width: 450px) {
+    margin-right: 8px;
+  }
 `;

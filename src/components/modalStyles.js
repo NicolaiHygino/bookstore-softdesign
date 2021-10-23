@@ -1,12 +1,29 @@
 import styled from 'styled-components';
 
-export const LabelWrapper = styled.div`
-  position: absolute;
-  overflow: hidden;
+export const Background = styled.div`
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
   top: 0;
-  right: 0;
-  width: 200px;
-  height: 200px;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, .5);
+  z-index: 1;
+  overflow: scroll;
+`;
+
+export const Modal = styled.section`
+  display: flex;
+  position: relative;
+  margin: 30px;
+  max-width: 800px;
+  padding: 30px 20px;
+  width: 100%;
+  max-height: 600px;
+  background-color: white;
+  border-radius: 5px;
 `;
 
 export const ModalContent = styled.div`
@@ -41,47 +58,6 @@ export const Image = styled.img`
 export const DetailsWrapper = styled.div`
   flex: 1;
   margin-right: 20px;
-`;
-
-export const Title = styled.h2`
-  font-size: 2em;
-`;
-
-export const Author = styled.p`
-  font-size: .9em;
-  color: #7f8c8d;
-`;
-
-export const IconsWrapper = styled.div`
-  display: flex;
-  flex-wrap: wrap;
-  margin: 30px 0;
-`; 
-
-export const InfoIcon = styled.div`
-  display: flex;
-  flex-wrap: wrap;
-  margin: 10px;
-  width: 100px;
-  flex-direction: column;
-  align-items: center;
-`;
-
-export const IconText = styled.p`
-  font-size: .9em;
-  font-weight: 600;
-  text-align: center;
-  margin-top: 5px;
-`;
-
-export const Button = styled.button`
-  font-size: 1em;
-  background-color: var(--main-color);
-  border: 0;
-  border-radius: 3px;
-  color: white;
-  padding: .6em 1em;
-  cursor: pointer;
 `;
 
 export const ExitButton = styled.button`

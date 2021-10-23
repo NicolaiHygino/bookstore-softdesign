@@ -6,7 +6,7 @@ export const StyledForm = styled(Form)`
   width: 100%;
 
   & textarea {
-    width: 390px;
+    width: 100%;
     height: 200px;
     max-width: 390px;
     max-height: 200px;
@@ -35,8 +35,8 @@ export const StyledField = styled(Field)`
 
 export const Row = styled.div`
   display: flex;
+  flex-wrap: wrap;
 `;
-
 
 export const RowLabel = styled.label`
   font-size: 1em;
@@ -57,22 +57,5 @@ export const Button = styled.button`
   border-radius: 3px;
   color: white;
   padding: .6em 1em;
-  cursor: pointer;
-`;
-
-export const ExitButton = styled.button`
-  display: flex;
-  align-items: center;
-  justify-content:center;
-  position: absolute;
-  top:-1.5em;
-  right: -1.5em;
-  width: 3em;
-  height: 3em;
-  background-color: #e74c3c;
-  border: 0;
-  border-radius: 50%;
-  color: white;
-  padding: 1em;
   cursor: pointer;
 `;

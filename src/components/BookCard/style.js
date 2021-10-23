@@ -16,6 +16,10 @@ export const Image = styled.img`
 
 export const InfoWrapper = styled.div`
   padding: 15px;
+
+  @media screen and (max-width: 850px) {
+    padding: 8px;
+  }
 `;
 
 export const Title = styled.h2`

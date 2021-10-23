@@ -1,8 +1,12 @@
 import styled from 'styled-components';
 
 export const Content = styled.section`
-  margin: 30px auto;  
+  margin: 30px auto;
+  padding: 30px;
   max-width: 1000px;
+  @media screen and (max-width: 850px) {
+    padding: 10px;
+  }
 `;
 
 export const IconField = styled.div`
@@ -31,4 +35,13 @@ export const Grid = styled.div`
   padding: 10px;
   grid-template-columns: repeat(4, 1fr);
   grid-gap: 30px;
+
+  @media screen and (max-width: 850px) {
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+  }
+
+  @media screen and (max-width: 450px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
 `;
