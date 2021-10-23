@@ -30,6 +30,7 @@ const Dashboard = () => {
       return book;
     });
     setBooks(rentedBooks);
+    setDetails(null);
   };
 
   const editBook = (id, editedBook) => {
