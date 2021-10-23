@@ -175,6 +175,5 @@ describe('Dashboard', () => {
     
     fireEvent.click(screen.getByText('Save'));
     expect(await screen.findByText('add title')).toBeInTheDocument();
-    screen.debug();
   });
 });
