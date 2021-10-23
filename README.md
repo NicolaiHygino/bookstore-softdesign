@@ -1,6 +1,6 @@
 # Enjoy :)
 
-This project was created for a code challange for SoftDesign.
+This project was created for a SoftPlan code test
 
 ## Available Scripts
 
