@@ -25,7 +25,6 @@ const Login = ({ setUser }) => {
       setUser(res);
     })
     .catch(err => {
-      console.log('error')
       setError(err);
     });
   };
@@ -36,20 +35,20 @@ const Login = ({ setUser }) => {
         initialValues={{ username: '', password: '' }}
         onSubmit={values => handleSubmit(values)}
       >
-        <StyledForm>
+        <StyledForm aria-label="form">
           <Header>Login</Header>
 
           {error && <Error>{error}</Error>}
 
           <FieldWrapper>
             <label htmlFor="username">Username</label>
-            <StyledField name="username" type="text" />
+            <StyledField id="username" name="username" type="text" />
             <ErrorMessage name="username" />
           </FieldWrapper>
   
           <FieldWrapper>
             <label htmlFor="password">Password</label>
-            <StyledField name="password" type="password" />
+            <StyledField id="password" name="password" type="password" />
             <ErrorMessage name="password" />
           </FieldWrapper>
 
