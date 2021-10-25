@@ -1,6 +1,6 @@
 # Enjoy :)
 
-This project was created for a SoftPlan code test
+This project was created for a SoftDesign code test
 
 ## Login Credentials
 - username: admin
